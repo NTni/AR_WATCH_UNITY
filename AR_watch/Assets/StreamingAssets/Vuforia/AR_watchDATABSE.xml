@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WATCH_4_IMG" size="4.000000 3.067961" />
+    <ImageTarget name="WATCH_1_IMG" size="4.000000 3.936842" />
+    <ImageTarget name="WATCH_3_IMG" size="4.000000 3.808219" />
+    <ImageTarget name="WATCH_2_IMG" size="4.000000 3.345972" />
+  </Tracking>
+</QCARConfig>
